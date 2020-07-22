@@ -30,6 +30,7 @@ train_df = pd.read_csv('../input/train_set.csv', sep='\t', nrows=100)
 ```python
 train_df.head()
 ```
+![](Image/Task2-1.png)
 
 上图是读取好的数据，是表格的形式。第一列为新闻的类别，第二列为新闻的字符。
 
